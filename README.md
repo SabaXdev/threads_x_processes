@@ -1,1 +1,1 @@
-# threads_x_processes
+This project is based on multithreading and multiprocessing, so that I create 5 processes and for each process there are defined 20 threads. The main work of threads is to send responses and fetch data from the site where are located json files snippents about various product data.
